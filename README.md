@@ -1,5 +1,5 @@
 # Todo-List
-Link: http://bit.ly/2HgCQST
+Link: https://barneyshi.github.io/Todo-List/
 
 ## Introduction
 
